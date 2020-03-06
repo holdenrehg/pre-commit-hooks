@@ -1,0 +1,5 @@
+repos:
+  - repo: https://github.com/holdenrehg/pre-commit-hooks
+    rev: master
+    hooks:
+      - id: check-todos
