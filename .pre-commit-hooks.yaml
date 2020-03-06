@@ -1,0 +1,6 @@
+- id: check-todos
+  name: Check TODO's
+  description: Check for TODO/FIXME code comments.
+  entry: check-todos
+  language: python
+  types: [text]
